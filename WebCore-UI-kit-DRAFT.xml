@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>WebCore UI Kit DRAFT</title>
+    <description>A test kit for trying out using this method to distribute a Sketch file between colleagues at the BBC</description>
+    <image>
+      <url>https://raw.githubusercontent.com/dave-morris/WebCore-kit-test/main/cover-image.jpg</url>
+      <title>WebCore UI Kit DRAFT</title>
+    </image>
+    <generator>Sketch</generator>
+    <item>
+      <title>WebCore UI Kit DRAFT</title>
+      <pubDate>Fri, 16 Octl 2020 15:48:00 +0000</pubDate>
+      <enclosure url="https://github.com/dave-morris/WebCore-kit-test/raw/main/WebCore-UI-Kit-DRAFT.sketch" type="application/octet-stream" sparkle:version="1"/>
+    </item>
+  </channel>
+</rss>
