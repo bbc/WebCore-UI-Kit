@@ -2,7 +2,7 @@
 ### Overview
 This is a test for hosting a Sketch library which can be updated and maintained as part of a GitHub repository. Changes to the library can be pushed to the repo and reviewed in the GEL team before merging. Then, users with the RSS feed linked to their personal Sketch application should then get any new updates.
 
-> This test has been largely successful when trialled in the GEL team. But, has raised a few thoughts around maintenance, version control, and what happens if Dave get hit by a bus.
+> This test has been largely successful when trialled in the GEL team. But a few thoughts has been raised around maintenance, version control, and what happens if Dave gets hit by a bus.
 
 ## Linking the library to your Sketch application
 To link the library to your Sketch application, you simply need the URL which points to the XML file in this repo.
