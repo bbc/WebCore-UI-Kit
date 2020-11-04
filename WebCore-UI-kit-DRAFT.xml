@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>WebCore UI Kit DRAFT</title>
-    <description>A test kit for trying out using this method to distribute a Sketch file between colleagues at the BBC</description>
+    <title>WebCore UI Kit</title>
+    <description>A WebCore UI Kit for distributing to the UX team working on WebCore related projects</description>
     <image>
-      <url>https://github.com/bbc/WebCore-kit-test/raw/main/cover-image.jpg</url>
-      <title>WebCore UI Kit DRAFT</title>
+      <url>https://github.com/bbc/WebCore-UI-Kit/raw/main/cover-image.jpg</url>
+      <title>WebCore UI Kit Cover Image</title>
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>WebCore UI Kit DRAFT</title>
-      <pubDate>Tue, 3 Nov 2020 16:35:00 +0000</pubDate>
-      <enclosure url="https://github.com/bbc/WebCore-kit-test/blob/main/WebCore-UI-Kit-DRAFT.sketch?raw=true" type="application/octet-stream" sparkle:version="1.6"/>
+      <title>WebCore UI Kit</title>
+      <pubDate>Wed, 4 Nov 2020 11:37:00 +0000</pubDate>
+      <enclosure url="https://github.com/bbc/WebCore-UI-Kit/raw/main/WebCore-UI-Kit-DRAFT.sketch" type="application/octet-stream" sparkle:version="1.7"/>
     </item>
   </channel>
 </rss>
