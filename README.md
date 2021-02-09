@@ -34,3 +34,19 @@ We're now at the stage where we can trial this with UX designers, the next steps
 - Figure out an approach that works for the whole GEL team to keep a file like this up to date
 - Include the licensing before sharing outside a core group of trial WebCore Designers
 - Find a solution for storing binary files on Git that still allows the library to be installed as a 3rd Party Library
+
+##License
+These assets are available for download on the following licence terms:
+
+> You can:
+·     Download the assets and use them free of charge;
+·     Use the assets without attribution (but we’d appreciate it if you could let us know); and
+·     Modify or alter the assets and edit them as you like.
+You can’t:
+·     Use the assets in a way that would bring the BBC into disrepute;
+·     Make available the assets so that they can be downloaded by others;
+·     Sell the assets to other people or package the assets with others that are for sale;
+·     Take payment from others to access the assets (including putting them behind a paywall);
+·     Use the assets as part of a service that you are charging money for; or
+·     Imply association with or endorsement from the BBC by using the assets.
+Disclaimer: The assets are offered as is and the BBC is not responsible for anything that happens if you use them.”
